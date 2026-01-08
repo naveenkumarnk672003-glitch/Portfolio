@@ -1,1 +1,3 @@
-# Portfolio
+portfolio/
+  index.html
+  resume.pdf
